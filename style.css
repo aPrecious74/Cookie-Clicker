@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    margin: auto;
+    height: 200px;
+    padding: 50px;
+
+}
+
+img{
+    display: block;
+    margin:auto;
+    margin: center;
+    width: 100%;
+    height: auto;
+}
+button {
+    transition: 0.3s ease all;
+}
+
+button:hover:active {
+    transform: scale(1.2)
+}
+
